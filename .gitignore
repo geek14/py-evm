@@ -59,3 +59,4 @@ prof/**
 docs/evm.*rst
 venv*
 .eggs/
+tests/rpc/mainnet_tester_chain.db/*
